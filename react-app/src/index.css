@@ -1,0 +1,7 @@
+:root {
+  --p: 20px;
+}
+
+body {
+  padding: var(--p);
+}
